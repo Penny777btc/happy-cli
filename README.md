@@ -1,4 +1,4 @@
-# Happy
+# Happy (Enhanced Edition) with Google Gemini Support 🚀
 
 Code on the go controlling AI coding assistants from your mobile device.
 
